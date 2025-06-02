@@ -13,4 +13,4 @@ This project builds a machine learning model to estimate **Expected Goals (xG)**
 ## 📁 Files
 
 - `ExpectedGoalsModel.ipynb` – Notebook with all steps explained and annotated
-- `xg_model.csv` (optional) – Trained model file for use in future predictions
+- `xg_model.csv` – Data used for model building
